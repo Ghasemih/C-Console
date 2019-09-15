@@ -1,0 +1,7 @@
+C:\Users\Dell-PC\Desktop\Git\SplittingTheBill\bin\Debug\$safeprojectname$.exe.config
+C:\Users\Dell-PC\Desktop\Git\SplittingTheBill\bin\Debug\$safeprojectname$.exe
+C:\Users\Dell-PC\Desktop\Git\SplittingTheBill\bin\Debug\$safeprojectname$.pdb
+C:\Users\Dell-PC\Desktop\Git\SplittingTheBill\obj\Debug\SplittingTheBill.csprojAssemblyReference.cache
+C:\Users\Dell-PC\Desktop\Git\SplittingTheBill\obj\Debug\SplittingTheBill.csproj.CoreCompileInputs.cache
+C:\Users\Dell-PC\Desktop\Git\SplittingTheBill\obj\Debug\$safeprojectname$.exe
+C:\Users\Dell-PC\Desktop\Git\SplittingTheBill\obj\Debug\$safeprojectname$.pdb
